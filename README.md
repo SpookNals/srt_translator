@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # 🎬 Subtitle Translator (English → Dutch)
 
 This is a simple Python script designed to translate `.srt` subtitle files from **English to Dutch** using an offline machine translation model (MarianMT via Hugging Face).
